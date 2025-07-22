@@ -1,2 +1,2 @@
-# Airport-Managaement-System
-Airport Managaement System
+# Airport-Management-System
+Airport Management System
