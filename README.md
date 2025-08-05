@@ -2,7 +2,7 @@
 Airport Management System
 # Airport Management System
 
-A database-driven project designed to manage and organize essential airport operations. Built using **Oracle SQL**, this system simulates real-world airline and airport data handling, enabling efficient tracking of flights, passengers, and staff.
+A database-driven project designed to manage and organize essential airport operations. Built using **MySQL**, this system simulates real-world airline and airport data handling, enabling efficient tracking of flights, passengers, and staff.
 
 ## Key Features
 
@@ -12,4 +12,4 @@ A database-driven project designed to manage and organize essential airport oper
 - Optimized SQL queries for fast and scalable data handling
 
 ## Tech Stack
-- **Oracle SQL** – Database creation and query logic
+- **MySQL** – Database creation and query logic
